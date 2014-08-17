@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #EEEEEE;
+		background: rgba(107,194,53,1);
 		font-family:  "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -387,10 +387,9 @@
 	{
 		overflow: hidden;
 		padding: 7em 0em 5em 0em;
-		background: #27AE61 url(images/banner.png) no-repeat center;
 		background-size: cover;
 		text-align: center;
-		color: rgba(255,255,255,.8);
+		color: rgba(38,157,128,.8);
 	}
 
 	#banner .title
